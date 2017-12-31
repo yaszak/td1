@@ -5,6 +5,7 @@ public class Exo_3 {
 	public static void main(String[] args) {
 		
 		int [] t1 = { 1, 2, 3, 4};
+		//test
 		int [] t2 = { 4, 6, 7, 8};
 		int [] t3 = new int [t1.length+t2.length];
 		
